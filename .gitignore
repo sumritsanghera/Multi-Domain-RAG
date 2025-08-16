@@ -1,0 +1,14 @@
+# Directories to ignore
+school/
+finance/
+general/
+multi_domain_chroma_db/
+__pycache__/
+.pytest_cache/
+
+# File types to ignore
+*.pdf
+*.db
+*.sqlite3
+*.sqlite
+*.log
